@@ -1,0 +1,6 @@
+Reading symbols from C:\Users\vinay\OneDrive\Documents\GIthub\c_activity_sets\set01\a.exe...done.
+(gdb) r
+Starting program: C:\Users\vinay\OneDrive\Documents\GIthub\c_activity_sets\set01/a.exe
+[New Thread 19920.0x41a0]
+[New Thread 19920.0x4d50]
+Sum is 7[Inferior 1 (process 19920) exited normally]
