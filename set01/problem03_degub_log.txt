@@ -1,0 +1,40 @@
+PS C:\Users\vinay\OneDrive\Documents\GIthub\c_activity_sets\set01> git push                                                     
+Everything up-to-date
+PS C:\Users\vinay\OneDrive\Documents\GIthub\c_activity_sets\set01> gdb problem02.exe
+GNU gdb (GDB) 7.6.1
+Copyright (C) 2013 Free Software Foundation, Inc.
+License GPLv3+: GNU GPL version 3 or later <http://gnu.org/licenses/gpl.html>
+This is free software: you are free to change and redistribute it.
+There is NO WARRANTY, to the extent permitted by law.  Type "show copying"
+and "show warranty" for details.
+This GDB was configured as "mingw32".
+For bug reporting instructions, please see:
+<http://www.gnu.org/software/gdb/bugs/>...
+Reading symbols from C:\Users\vinay\OneDrive\Documents\GIthub\c_activity_sets\set01\problem02.exe...done.
+(gdb) q
+PS C:\Users\vinay\OneDrive\Documents\GIthub\c_activity_sets\set01> gdb problem03.exe
+GNU gdb (GDB) 7.6.1
+Copyright (C) 2013 Free Software Foundation, Inc.
+License GPLv3+: GNU GPL version 3 or later <http://gnu.org/licenses/gpl.html>
+This is free software: you are free to change and redistribute it.
+There is NO WARRANTY, to the extent permitted by law.  Type "show copying"
+and "show warranty" for details.
+This GDB was configured as "mingw32".
+For bug reporting instructions, please see:
+<http://www.gnu.org/software/gdb/bugs/>...
+Reading symbols from C:\Users\vinay\OneDrive\Documents\GIthub\c_activity_sets\set01\problem03.exe...done.
+(gdb) r
+Starting program: C:\Users\vinay\OneDrive\Documents\GIthub\c_activity_sets\set01/problem03.exe
+[New Thread 9520.0x34b4]
+[New Thread 9520.0x5214]
+Enter the numbers4 5
+Enter the numberssum of numbers is 9[Inferior 1 (process 9520) exited normally]
+(gdb) n
+The program is not being run.
+(gdb) r
+Starting program: C:\Users\vinay\OneDrive\Documents\GIthub\c_activity_sets\set01/problem03.exe
+[New Thread 9868.0x11dc]
+[New Thread 9868.0x3df0]
+Enter the numbers6 1
+Enter the numberssum of numbers is 7[Inferior 1 (process 9868) exited normally]
+(gdb) q
