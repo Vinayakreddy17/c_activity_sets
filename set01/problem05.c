@@ -32,9 +32,6 @@ int input()
     {
         largest=c;
     }
-    else{
-        printf("numbers are equal");
-    }
     return largest;
  }
  void output(int a,int b,int c,int largest)
