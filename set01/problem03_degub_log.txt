@@ -23,7 +23,7 @@ This GDB was configured as "mingw32".
 For bug reporting instructions, please see:
 <http://www.gnu.org/software/gdb/bugs/>...
 Reading symbols from C:\Users\vinay\OneDrive\Documents\GIthub\c_activity_sets\set01\problem03.exe...done.
-(gdb) r
+(gdb) rgdb
 Starting program: C:\Users\vinay\OneDrive\Documents\GIthub\c_activity_sets\set01/problem03.exe
 [New Thread 9520.0x34b4]
 [New Thread 9520.0x5214]

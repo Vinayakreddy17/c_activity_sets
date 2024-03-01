@@ -37,5 +37,17 @@ int input()
  void output(int a,int b,int c,int largest)
 {
     printf("\nLargest number is %d.",largest);
+    if (largest==a)
+    {
+        printf("\n%d and %d are the other two numbers.\n",b,c);
+        }
+        else if (largest==b)
+        {
+            printf("\n%d and %d are the other two numbers.\n",a,c);
+        }
+        else
+        {
+            printf("\n%d and %d are the other two numbers.\n",a,b);
+        }            
 }
 
